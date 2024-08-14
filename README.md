@@ -1,6 +1,6 @@
 # M5Stack M5NanoC6 Zigbee Sniffer
 
-Instructions for configuring the [M5NanoC6](https://www.amazon.com/MARALANG-M5NanoC6-Low-Power-Development-ESP32-C6FH4/dp/B0D7674RRF) to be used as a Zigbee Sniffer.
+Instructions for configuring the [M5NanoC6](https://shop.m5stack.com/products/m5stack-nanoc6-dev-kit) to be used as a Zigbee Sniffer.
 
 
 ![M5NanoC6](https://gainsec.com/wp-content/uploads/2024/08/nanoc6.jpg?v=1723594418)
